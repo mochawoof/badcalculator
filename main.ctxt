@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=main
+comment1.params=a
+comment1.target=void\ answer(java.lang.String)
+comment2.params=d\ t\ f
+comment2.target=void\ msg(java.lang.String,\ java.lang.String,\ int)
+comment3.params=sender
+comment3.target=void\ sbl(javax.swing.JButton)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=
+comment5.target=void\ randomize()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=e
+comment8.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=9
